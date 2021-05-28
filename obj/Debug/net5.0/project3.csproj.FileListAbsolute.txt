@@ -1,0 +1,16 @@
+/home/gwao/Documents/project3/bin/Debug/net5.0/project3
+/home/gwao/Documents/project3/bin/Debug/net5.0/project3.deps.json
+/home/gwao/Documents/project3/bin/Debug/net5.0/project3.runtimeconfig.json
+/home/gwao/Documents/project3/bin/Debug/net5.0/project3.runtimeconfig.dev.json
+/home/gwao/Documents/project3/bin/Debug/net5.0/project3.dll
+/home/gwao/Documents/project3/bin/Debug/net5.0/ref/project3.dll
+/home/gwao/Documents/project3/bin/Debug/net5.0/project3.pdb
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.csprojAssemblyReference.cache
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.AssemblyInfoInputs.cache
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.AssemblyInfo.cs
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.csproj.CoreCompileInputs.cache
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.dll
+/home/gwao/Documents/project3/obj/Debug/net5.0/ref/project3.dll
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.pdb
+/home/gwao/Documents/project3/obj/Debug/net5.0/project3.genruntimeconfig.cache
